@@ -3,12 +3,12 @@
 
 ### criteria
 The ideas that this is based on are that:
-The robot arm must be able to pick up any chess piece and move it to another location on a chess board.
-The robot arm must be able to autonomously recognize red objects, pick them up, and place them in a bin.
-The robot arm must be able to write letters entered on a keypad.
-The robot arm must be able to press keys on a piano to play a simple song.
-The robot arm must be able to at least pick up a pencil stab a hole in a yoga ball for selfe defence (let's ignore the laws of robotics)
-The robot arm must be able to drive twards a target as it will be on wheels.
+1. The robot arm must be able to pick up any chess piece and move it to another location on a chess board.
+2. The robot arm must be able to autonomously recognize red objects, pick them up, and place them in a bin.
+3. The robot arm must be able to write letters entered on a keypad.
+4. The robot arm must be able to press keys on a piano to play a simple song.
+5. The robot arm must be able to at least pick up a pencil stab a hole in a yoga ball for selfe defence (let's ignore the laws of robotics)
+6. The robot arm must be able to drive towoards a target as it will be on wheels.
 
 //**Please ignore anything involving a rocket launcher. That idea has been completley scrapped.**
 ### How to acomplish
