@@ -4,7 +4,13 @@
 <h3>Ideas</h3>
 
 ### criteria
-Here is my plan: Have a robot that sorts ferrous objects by 
+Here is a good option
+This is a robot that has a drill with a bit that is larger than the robot itself. This is a tunnel boring robot.
+I want to do this to bore into mountains and cinderblocks. There isn't to much of a point to this.
+
+Torque that is required should be about 3.25NMs
+therefore at 3000RPM the motor required should be 1084.49349198W
+
 
 <h3>Project Planning</h3>
 <h4>Sketches</h4>
