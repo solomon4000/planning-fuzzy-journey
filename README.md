@@ -45,6 +45,7 @@ BILL OF MATERIALS
 
 
 PSEUDOCODE
+```
 Void setup(){
 pinMode(9, OUTPUT)
 pinMode(10, OUTPUT)
@@ -55,12 +56,14 @@ Void loop(){
 digitalWrite(11, HIGH)
 digitalWrite(12, HIGH)
 //Spin motor forwards
-Pin 9 and 10 make it so it tunnels at 45° for 3 seconds
-Level out after three seconds
-Drills straight for 5 minutes
-Return to surface by drilling for three seconds at 45°
+//Pin 9 and 10 make it so it tunnels at 45° for 3 seconds
+//Level out after three seconds
+//Drills straight for 5 minutes
+//Return to surface by drilling for three seconds at 45°
 }
-
+```
+And now here is the schedual 
+```
 SCHEDULE
 March 4 - Start planning
 March 12 - Finish planning, start CAD
@@ -70,5 +73,5 @@ April 15 - Assemble project
 April 26 - Revise and make improvements
 May 20 - Finish improvements + documentation
 May 24 - Project complete
-
+```
 Update April 29th, we have not finished the CAD we are about to start assembaly as we don't have a lot of time.
