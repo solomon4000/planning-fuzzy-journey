@@ -1,11 +1,13 @@
 # Drill Robot
 ROUGH SKETCHES/IDEAS
+![Untitled](https://github.com/solomon4000/planning-fuzzy-journey/assets/90640484/7252a3d8-c401-4b5e-b52c-e14bf663f62c)
 
 
 DIAGRAMS
+![Capture](https://github.com/solomon4000/planning-fuzzy-journey/assets/90640484/610121e8-d9fd-4019-bec9-05010f9b3550)
 
 
-Onshape document we will be using
+[Onshape document we will be using](https://cvilleschools.onshape.com/documents/c2a9d48291cc143e1c5c2e36/w/15419713e5234e2432e6f2f1/e/79c7b2bf3c5ad69468cf4189)
 
 VERSIONS
 If we have time, we will take it to work on the code and improve the robot's ability to perform different unique functions with the drill:
@@ -37,10 +39,9 @@ PROBLEM
 We might have unexploded munitions beneath the school or something like that. Also our drainage systems kinda suck right now.
 
 BILL OF MATERIALS
-A few stepper motors
-A way to fabricate a metal drill (PLA will probably snap if used to drill sand)
-Or a 50mm spade bit?
-
+~~A few stepper motors~~ Using a TT motor instead of a steper motor
+~~A way to fabricate a metal drill (PLA will probably snap if used to drill sand)~~ We are going to use plastic
+~~Or a 50mm spade bit?~~ no
 
 
 PSEUDOCODE
@@ -69,3 +70,5 @@ April 15 - Assemble project
 April 26 - Revise and make improvements
 May 20 - Finish improvements + documentation
 May 24 - Project complete
+
+Update April 29th, we have not finished the CAD we are about to start assembaly as we don't have a lot of time.
