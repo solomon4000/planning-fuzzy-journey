@@ -33,10 +33,10 @@ The robot arm is functional enough that the drill can be pressed and does what i
 We do not start a World War and the mines do not blow up and destroy the earth.
 
 SAFETY
-For this project, we should definitely remember not to get unsafe. It's not necessary to resort to sketchy induction motors found on EBay or AliBaba to power any of this stuff, and all of these materials will be found in the Sigma lab.
+For this project, we should definitely remember not to get unsafe. It's not necessary to resort to sketchy induction motors found on EBay or AliBaba to power any of this stuff, and all of these materials will be found in the Sigma lab. We will make sure the drill won't catch fire either as there should be an overload protection.
 
 PROBLEM
-We might have unexploded munitions beneath the school or something like that. Also our drainage systems kinda suck right now.
+We might have unexploded munitions beneath the school or something like that. Also our drainage systems kinda suck right now. We can solve this by digging out the munitions and drilling a new drainage system.
 
 BILL OF MATERIALS
 ~~A few stepper motors~~ Using a TT motor instead of a steper motor
