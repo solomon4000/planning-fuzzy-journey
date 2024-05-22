@@ -1,9 +1,10 @@
 # Drill Robot
+## Planning
 ROUGH SKETCHES/IDEAS
 ![Untitled](https://github.com/solomon4000/planning-fuzzy-journey/assets/90640484/7252a3d8-c401-4b5e-b52c-e14bf663f62c)
 
 
-DIAGRAMS
+DIAGRAMS<br>
 ![Capture](https://github.com/solomon4000/planning-fuzzy-journey/assets/90640484/610121e8-d9fd-4019-bec9-05010f9b3550)
 
 
@@ -62,7 +63,7 @@ digitalWrite(12, HIGH)
 //Return to surface by drilling for three seconds at 45°
 }
 ```
-And now here is the schedual 
+And now here is the schedule
 ```
 SCHEDULE
 March 4 - Start planning
@@ -75,3 +76,5 @@ May 20 - Finish improvements + documentation
 May 24 - Project complete
 ```
 Update April 29th, we have not finished the CAD we are about to start assembaly as we don't have a lot of time.
+
+## Materials
