@@ -153,3 +153,4 @@ Update April 29th, we have not finished the CAD we are about to start assembaly 
 ## Reflection
 
 <!--## Obituary-->
+We didn't finish this assignment in time. This was really sad. I should have picked a less ambitious project to work on this time. This is to bad honestley because it would have been nice to finish in time. I think I (Solomon) was far to distracted trying to help my freind in the lab thinking I could get my 6 profesionalism points back. I also ended up getting distracted while working on my own things and ended up spending some time hanging out with her.
