@@ -81,9 +81,18 @@ May 24 - Project complete
 Update April 29th, we have not finished the CAD we are about to start assembaly as we don't have a lot of time.
 
 ## Materials
-
+<p>At first we wanted to use a large 1Kw motor I found in the back of the lab. I also wanted to use a 250mm drill bit. <br>
+<strong>DO NOT TRY THIS THIS IS HOW YOU GET YOURSELF KILLED<br>
+不要尝试这个，这样你就会丧命<br>
+NO INTENTES ESTO ASÍ ES COMO TE MATAN<br>
+NIE PRÓBUJ TEGO, W TEN SPOSÓB DASZ SIĘ ZABIĆ<br>
+НЕ ПЫТАЙТЕСЬ ЭТОГО, ТАК ВЫ СЕБЯ УБИВАЕТЕ</strong></p>
+<p>
+  
+  
+I now used a TT motor to drive the drill. This was connected to the drill bit. I used PLA for the drill and I had the drill directley connected to the TT motor. I had also used acrylic to try and print a gear box and gears. This did not work at all for me.</p>
 ## Wiring
-
+Our wiring consisted of a solenoid, a TT motor, a limit switch, and an Adafruit M0
 ## Code
 
 ## CAD
@@ -149,8 +158,8 @@ Update April 29th, we have not finished the CAD we are about to start assembaly 
 </table>
 
 ## Problems
-
+We did not get to assembeling the robot. It was half complete and we didn't have the baseplate yet. I really hoped we could finish this assignment in time.
 ## Reflection
 
-<!--## Obituary-->
+## Obituary
 We didn't finish this assignment in time. This was really sad. I should have picked a less ambitious project to work on this time. This is to bad honestley because it would have been nice to finish in time. I think I (Solomon) was far to distracted trying to help my freind in the lab thinking I could get my 6 profesionalism points back. I also ended up getting distracted while working on my own things and ended up spending some time hanging out with her.
