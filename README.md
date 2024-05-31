@@ -87,17 +87,29 @@ Update April 29th, we have not finished the CAD we are about to start assembaly 
 NO INTENTES ESTO ASÍ ES COMO TE MATAN<br>
 NIE PRÓBUJ TEGO, W TEN SPOSÓB DASZ SIĘ ZABIĆ<br>
 НЕ ПЫТАЙТЕСЬ ЭТОГО, ТАК ВЫ СЕБЯ УБИВАЕТЕ</strong></p>
-<p>
-  
-  
+<p>  
 I now used a TT motor to drive the drill. This was connected to the drill bit. I used PLA for the drill and I had the drill directley connected to the TT motor. I had also used acrylic to try and print a gear box and gears. This did not work at all for me.</p>
+<img src="https://github.com/solomon4000/planning-fuzzy-journey/assets/143544930/33008b02-db50-4799-bf82-00f92c1f7ba6">
+
 ## Wiring
 Our wiring consisted of a solenoid, a TT motor, a limit switch, and an Adafruit M0
+![Wiring Robot](https://github.com/solomon4000/planning-fuzzy-journey/assets/143544930/5c252582-c052-4969-bb49-08139c2bf5b8)
+
 ## Code
+<a href="https://github.com/solomon4000/planning-fuzzy-journey/blob/main/Solenoid/Solenoid.py">Link to code</a>
 
 ## CAD
 
+
 ## Assembly
+Here is the solenoid working. We didn't get the whole wiring done, but you can also see the TT Motor wiring.
+https://github.com/solomon4000/planning-fuzzy-journey/assets/143544930/576641a3-9c59-4b93-8098-ad4ab420d84c
+
+What little we have of the arm:<br>
+![WIN_20240531_15_47_43_Pro](https://github.com/solomon4000/planning-fuzzy-journey/assets/143544930/682b74d5-f567-47ed-b8d5-ef7df315710c)
+
+This is the solenoid in the solenoid holder. It cannot be held properly because I didn't yet mitigate the spring at the bottom of it, making the hole dysfunctional.<br>
+![WIN_20240531_15_50_58_Pro](https://github.com/solomon4000/planning-fuzzy-journey/assets/143544930/2208133a-5444-49dd-98cf-f27b2286494f)
 
 ## Schedule
 <table>
