@@ -99,6 +99,13 @@ Our wiring consisted of a solenoid, a TT motor, a limit switch, and an Adafruit 
 <a href="https://github.com/solomon4000/planning-fuzzy-journey/blob/main/Solenoid/Solenoid.py">Link to code</a>
 
 ## CAD
+![GOOD Motor (2)](https://github.com/solomon4000/planning-fuzzy-journey/assets/143544930/a3787f81-7784-4946-8ea3-ba2c27b54502)
+![GOOD Motor (1)](https://github.com/solomon4000/planning-fuzzy-journey/assets/143544930/be646114-76bd-43fc-ad34-475d1b0cc478)
+![Part Studio 1 (8)](https://github.com/solomon4000/planning-fuzzy-journey/assets/143544930/e8d1e24f-579e-4d53-b86a-200c753859a1)
+
+Here are some parts we included before the final, but didn't end up using:
+![BAD motor V2 0](https://github.com/solomon4000/planning-fuzzy-journey/assets/143544930/750d3d3d-5aab-4425-9dda-16a647b904f5)
+
 
 
 ## Assembly
