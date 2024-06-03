@@ -1,16 +1,14 @@
-import board
-import digitalio
-import time
+import board # initiates board
+import digitalio # allows communication with board output
+import time # allows for breaks between actions
 
-SolenoidPin = 4
+solenoid = digitalio.DigitalInOut(board.D4) # pin that goes to solenoid is 4
 
-solenoid = digitalio.DigitalInOut(board.D4)
-
-solenoid.direction = digitalio.Direction.OUTPUT 
+solenoid.direction = digitalio.Direction.OUTPUT # solenoid is used as output
 
 while True:
 
-    solenoid.value = True
-    time.sleep(1)
-    solenoid.value = False
+    solenoid.value = True # set as true
+    time.sleep(1) # stop 1
+    solenoid.value = False # switch off solenoid
     time.sleep(1)
